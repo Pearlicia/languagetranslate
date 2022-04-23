@@ -1,2 +1,2 @@
-A mini react app for language translation use your preferred language on your website 
+A mini react app for language translation on your website 
 Translate site  to your local language 
